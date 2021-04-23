@@ -19,7 +19,7 @@
 * ```docker push <username>/<your repo on docker hub> ```
   
 ### Pull docker image from remote repository
-By default docker pull pulles images frmo docker hum, to change repo we can specify repo path to pull from   
+By default docker pull pulles images from docker hub, to change repo we can specify repo path to pull from   
   ``` docker pull <username>/<your repo on docker hub> ```
 
   To pull and run docker image form remote repo use command:
